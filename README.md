@@ -30,6 +30,4 @@
   <img src="https://www.gitskins.com/api/section/heatmap?username=ruthvikgoud16&theme=github-dark&style=terminal&mode=dark" width="100%" alt="ruthvikgoud16 heatmap" />
 </picture>
 
-</div>
 
-<p align="center"><sub>ruthvikgoud16 · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
